@@ -44,26 +44,26 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 
 ## Feature Areas
 
-The following is a list of our current product areas:
+The following is a list of our future product and service areas:
 
-- **code:** Code experiences (Repositories, Pull Requests, Gists)
-- **planning:** Planning and tracking tools (Issues, Projects)
-- **code-to-cloud:** Code-to-cloud DevOps (Actions, Packages)
-- **collaboration:** Collaboration features (Pages, Wikis, Discussions)
-- **security & compliance:** Code security and compliance features
-- **admin-server:** Administrative features specific to AI-Assitant Enterprise Server
-- **admin-cloud:** Administrative features specific to AI-Assitant Cloud
+- **infrastructure:** Large file repository management and storage
+- **training:** Training for new AI modules
+- **certification:** Certification service for new modules
+- **marketplace:** Tested and validated AI modules market place
+- **base-AI:** AI assistant base module
 - **communities:** Community and social features
 - **ecosystem:** Ecosystem and API features
 - **learning:** Education and learning features
 - **insights:** Continuous learning and insights features
 - **client-apps:** Client applications (Desktop, Mobile)
+- **ai-cloud:** AI-Assistant Cloud 
 - **other:** Other features
 
 ## Feature
 
-The following is a list of our current features and products, with distinct labels for filtering:
+The following is a list of our future features and products, with distinct labels for filtering:
 
+- **modules:** AI-Assitant modules
 - **actions:** AI-Assitant Actions
 - **docs:** AI-Assitant Docs
 - **packages:** AI-Assitant Packages
@@ -73,16 +73,17 @@ _More labels will be added in the future as needed._
 
 ## Product SKUs 
 
-The following is a list of our current product SKUs. 
+The following is a list of our future product SKUs. 
 
 - **all:** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
-- **AI-Assitant team:** AI-Assitant Team
-- **AI-Assitant enterprise:** AI-Assitant Enterprise (Cloud and Server)
-- **AI-Assitant one:** AI-Assitant One (Cloud and Server)
-- **AI-Assitant ae:** AI-Assitant AE (GHAE)
-- **AI-Assitant advanced security:** AI-Assitant Advanced Security (add-on to GHE)
-- **AI-Assitant insights:** AI-Assitant Insights (add-on to GHE)
-- **AI-Assitant learning lab:** AI-Assitant Learning Lab (add-on to GHE)
+- **ai-assistant local:** AI-Assistant base module for use on local computers and mobiles
+- **ai-assistant cloud:** AI-Assistant cloud for use on the cloud and as a web app
+- **ai-assistant creator:** AI-Assistant creator interface and services
+- **ai-assistant ae:** AI-Assistant AE (AIAE)
+- **ai-assistant enterprise:** AI-Assistant Enterprise solution (AIE)
+- **ai-assistant advanced security:** AI-Assistant Advanced Security (add-on to AIE)
+- **ai-assistant insights:** AI-Assistant Insights (add-on to AIE)
+- **ai-assistant learning lab:** AI-Assistant Learning Lab (add-on to AIE)
 
 ## Disclaimer 
 
