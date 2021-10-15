@@ -76,8 +76,9 @@ _More labels will be added in the future as needed._
 The following is a list of our future product SKUs. 
 
 - **all:** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
+- **ai-assistant infrastructure:** AI-Assistant infrastructure services
 - **ai-assistant local:** AI-Assistant base module for use on local computers and mobiles
-- **ai-assistant cloud:** AI-Assistant cloud for use on the cloud and as a web app
+- **ai-assistant cloud:** AI-Assistant cloud for use on 
 - **ai-assistant creator:** AI-Assistant creator interface and services
 - **ai-assistant ae:** AI-Assistant AE (AIAE)
 - **ai-assistant enterprise:** AI-Assistant Enterprise solution (AIE)
