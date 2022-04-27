@@ -1,11 +1,12 @@
 # AI assistant public roadmap
+
 (Based upon GitHub's roadmap readme)
 
 ![AI Assistant Icon](Media/AI_ASSISTANT-300x300.jpg)
 
 In this repository, you can find the [official AI-Assistants public product roadmap](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap let us know at info@nautilus-cyberneering.de.
 
-The roadmap repository is for communicating the AI-Assistant's roadmap and based on our [Vision](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap/blob/main/VISION.md). 
+The roadmap repository is for communicating the AI-Assistant's roadmap and based on our [Vision](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap/blob/main/VISION.md).
 
 Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know via email at ai-assistant@nautilus.cyberneering.de.
 
@@ -13,9 +14,9 @@ Existing issues are currently read-only, and we are locking conversations, as we
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
 
-- A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases. 
+- A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases.
 - A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
-- A **feature** that indicates the feature or product to which the item belongs. For a list of current features, see below. 
+- A **feature** that indicates the feature or product to which the item belongs. For a list of current features, see below.
 - One or more **product SKU** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
 - One or more **deployment models** (cloud, server, and/or ae). Where not stated, features will generally come out Cloud first, and follow on Server and GHAE at or soon after GA.
 
@@ -34,10 +35,10 @@ Features mostly complete and documented. Timeline and requirements for GA usuall
 - **ga:** *Generally available to all customers*\
 Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Beta.
 
-Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows: 
+Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows:
 
 - **in design:**\
-Feature in discovery phase. We have decided to build this feature, but are still figuring out _how_.
+Feature in discovery phase. We have decided to build this feature, but are still figuring out *how*.
 
 - **exploring:**\
 Feature under consideration. We are considering building this feature, and gathering feedback on it.
@@ -60,7 +61,7 @@ The following is a list of our future product and service areas:
 - **learning:** Education and learning features
 - **insights:** Continuous learning and insights features
 - **client-apps:** Client applications (Desktop, Mobile)
-- **ai-cloud:** AI-Assistant Cloud 
+- **ai-cloud:** AI-Assistant Cloud
 - **other:** Other features
 
 ## Feature
@@ -73,17 +74,16 @@ The following is a list of our future features and products, with distinct label
 - **packages:** AI-Assitant Packages
 - **pages:** AI-Assitant Pages
 
+*More labels will be added in the future as needed.*
 
-_More labels will be added in the future as needed._
+## Product SKUs
 
-## Product SKUs 
-
-The following is a list of our future product SKUs. 
+The following is a list of our future product SKUs.
 
 - **all:** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
 - **ai-assistant infrastructure:** AI-Assistant infrastructure services
 - **ai-assistant local:** AI-Assistant base module for use on local computers and mobiles
-- **ai-assistant cloud:** AI-Assistant cloud for use on 
+- **ai-assistant cloud:** AI-Assistant cloud for use on
 - **ai-assistant creator:** AI-Assistant creator interface and services
 - **ai-assistant ae:** AI-Assistant AE (AIAE)
 - **ai-assistant enterprise:** AI-Assistant Enterprise solution (AIE)
@@ -92,11 +92,14 @@ The following is a list of our future product SKUs.
 - **ai-assistant learning lab:** AI-Assistant Learning Lab (add-on to AIE)
 - **spin-off:** Features or enhancements developed for our AI-Assistant project that can be used as separately by the community in their own projects.
 
-## Disclaimer 
+## Disclaimer
 
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to AI-Assitant as of the date they are made, and AI-Assitant assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Customers should not rely on this roadmap to make any purchasing decision.
 © 2021 Nautilus Cyberneering GmbH.
 
+<!--
+Future incorporation:
+----------------------------
 Terms
 Privacy
 Security
@@ -108,3 +111,4 @@ API
 Training
 Blog
 About
+-->
