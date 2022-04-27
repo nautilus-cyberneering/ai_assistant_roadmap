@@ -1,6 +1,8 @@
 # AI assistant public roadmap
 (Based upon GitHub's roadmap readme)
 
+![AI Assistant Icon](Media/AI_ASSISTANT-300x300.jpg)
+
 In this repository, you can find the [official AI-Assistants public product roadmap](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap let us know at info@nautilus-cyberneering.de.
 
 The roadmap repository is for communicating the AI-Assistant's roadmap and based on our [Vision](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap/blob/main/VISION.md). 
@@ -71,6 +73,7 @@ The following is a list of our future features and products, with distinct label
 - **packages:** AI-Assitant Packages
 - **pages:** AI-Assitant Pages
 
+
 _More labels will be added in the future as needed._
 
 ## Product SKUs 
@@ -87,6 +90,7 @@ The following is a list of our future product SKUs.
 - **ai-assistant advanced security:** AI-Assistant Advanced Security (add-on to AIE)
 - **ai-assistant insights:** AI-Assistant Insights (add-on to AIE)
 - **ai-assistant learning lab:** AI-Assistant Learning Lab (add-on to AIE)
+- **spin-off:** Features or enhancements developed for our AI-Assistant project that can be used as separately by the community in their own projects.
 
 ## Disclaimer 
 
