@@ -8,7 +8,7 @@ In this repository, you can find the [official AI-Assistants public product road
 
 The roadmap repository is for communicating the AI-Assistant's roadmap and based on our [Vision](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap/blob/main/VISION.md).
 
-Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know via email at ai-assistant@nautilus.cyberneering.de.
+Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know via email at info@nautilus-cyberneering.de.
 
 ## Guide to the roadmap
 
